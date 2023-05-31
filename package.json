@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@jridgewell/sourcemap-codec": "^1.4.15",
+    "gh-pages": "^5.0.0",
     "instead": "^1.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
